@@ -9,8 +9,8 @@ https://github.com/BenRiska?tab=repositories
 
 Version 1.0.0
 
-This is a basic social media app where users can create an account and share posts with eachother. 
+This is a social media app where users can create an account and share posts with eachother. 
 
-I made this app to get some experience using the model view controller method. It's not the most complex piece of code but im happy with how it came out. 
+I made this app to get some experience using the model view controller method. The page design and general backend functionality is very basic but i am happy with how it came out.
 
 Feel free to expand on my app and use it in your own projects.
